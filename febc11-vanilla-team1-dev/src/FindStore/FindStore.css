@@ -423,7 +423,7 @@ body {
 }
 
 .select-tap{
-    display: inline;
+    display: none;
     margin-top: 50px;
     
 }
