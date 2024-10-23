@@ -1,12 +1,14 @@
-:root {
-    --font-primary: 'Noto Sans KR', sans-serif;
-}
-
 body {
     font-family: var(--font-primary);
 }
 
-/* header 가장 위 css */
+:root {
+    --font-primary: 'Noto Sans KR', sans-serif;
+}
+
+
+
+/* header 가장 위   css */
 .headerMenu {
     background: var(--F5F5F5, #F5F5F5);
 }
@@ -428,7 +430,7 @@ body {
     
 }
 .select-tap a{
-    font-size: 16.5px;
+    font-size: 17px;
 }
 
 
@@ -574,7 +576,7 @@ body {
     }
   
     #footer div:last-of-type p {
-      font-size: 12px;
+      font-size: 12.1px;
       line-height: 2.2;
       text-align: left;
       word-break: normal;
